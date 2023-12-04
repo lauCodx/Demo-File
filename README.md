@@ -1,5 +1,1 @@
-#DEMO
-
-We are live now on GitHub
-
-#Genesys
+Given a list of integers, create a function that returns the nth rarest item. The function, should be called nth_most_rate signature and its signature nth_most_rate signature (list, n) where the list is the array of integers and n is the nth rarest term.
